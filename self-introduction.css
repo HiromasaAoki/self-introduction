@@ -1,0 +1,22 @@
+body{
+    background: url("https://pics.prcm.jp/1c719924de3c4/83583670/gif/83583670.gif");
+    animation: bgiLoop 5s linear infinite;
+    font-weight: bold; 
+    background-color: aliceblue;
+
+}
+li{
+    list-style-type: square;
+    margin: 10px;
+    color: red;
+    text-indent: -10px;
+    list-style-position: inside;
+}
+a{
+    font-weight: bold;
+}
+.has-text-align-center {
+    text-align: center;
+}
+body{text-align: center;}
+h3{}
